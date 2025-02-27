@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 Pokemon Explorer is a responsive web app built with **Next.js** that fetches data from the **PokeAPI**. Users can browse Pokémon, search for their favorites, and view detailed stats, abilities, and types.
-
+**Live Demo:** [Pokemon Explorer](https://pokemon-web-expo-intrn-assignment.vercel.app/)  
 ## 🛠 Tech Stack
 - **Next.js** (React Framework)
 - **TypeScript** (Optional)
@@ -51,6 +51,7 @@ Pokemon Explorer is a responsive web app built with **Next.js** that fetches dat
 2. **Install dependencies**:
    ```sh
    npm install
+   npm install -D tailwindcss postcss autoprefixer
    ```
 
 3. **Set up environment variables**:
